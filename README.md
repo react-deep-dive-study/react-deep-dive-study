@@ -18,8 +18,8 @@
 |   ![](https://github.com/Tolluset.png?size=150)    | ![](https://github.com/kickbelldev.png?size=150)  | ![](https://github.com/heli-os.png?size=150) |
 |:------------------------------------------------:|:--------------------------------------------:|:---------------------------------------------:|
 |         [이병현](https://github.com/Tolluset)         |       [김종찬](https://github.com/kickbelldev)       |      [진태양](https://github.com/heli-os)       |
-| ![](https://github.com/Sh1naburo.png?size=150) | ![](https://github.com/hanabcde2.png?size=150) | ![](https://github.com/bigyou98.png?size=150) |
-|      [현섭](https://github.com/Sh1naburo)       |       [한강희](https://github.com/hanabcde2)       |      [박상훈](https://github.com/bigyou98)       |
+| ![](https://github.com/Ssoon-m.png?size=150) | ![](https://github.com/hanabcde2.png?size=150) | ![](https://github.com/bigyou98.png?size=150) |
+|      [권순민](https://github.com/Ssoon-m)       |       [한강희](https://github.com/hanabcde2)       |      [박상훈](https://github.com/bigyou98)       |
 
 ## 🗓 스터디 일정
 
